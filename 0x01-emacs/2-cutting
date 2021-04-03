@@ -1,0 +1,7 @@
+--For the operations of cutting & copying u should go for these steps :
+	1-- Highlighting the region of the text you want to execute the operation on 
+		to highlight use :: C-space  then use the cursor to select the text
+		NOTE :: you can select all the text by using :: C-x h
+	2-- To cut the highlighted area use :: C-w
+		NOTE :: you can cut from the cursor to the end of the line by :: C-k  
+	3-- To Copy use :: M-w

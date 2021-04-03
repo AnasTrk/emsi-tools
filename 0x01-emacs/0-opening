@@ -1,0 +1,4 @@
+you can open a file in emacs on the ways listed below ::
+	1- you can open a file from your shell by typing emacs following with your file name 
+		e.g:(emacs filename)
+	2-you  can open a file from emac user interface by :: C-x C-f (whether or not it already exists) 
