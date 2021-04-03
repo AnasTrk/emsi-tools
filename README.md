@@ -1,1 +1,1 @@
-#EMACS BASICS :: ^^
+#EMACS && VI(M) BASICS
