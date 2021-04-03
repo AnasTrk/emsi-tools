@@ -1,6 +1,1 @@
---To search on emacs use :: C-s or C-r (Incremental search as you type forward  or backword )
-	-- type enter	:: to exit searching  and stay on cursor ..
-	-- type C-g	:: to exit searching a,d stay back to where the cursor started
-	-- C-s/C-r	:: to search for next or go opposite direction (used also to search with string used 				in last search operation)
-	
-
+C-s
